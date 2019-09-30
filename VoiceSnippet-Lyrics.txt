@@ -1,0 +1,25 @@
+﻿Hello, my name is Cortana, how can I help you?
+I am a virtual assistant.
+I am sorry, I can not do that.
+At the moment, there are about 7.5 billion people living on earth.
+I could not understand what you were saying, can you repeat that please.
+The weather today will be sunny with up to 27 degrees celsius and a 10% chance of rain.
+There are 69 italian restaurants within a 5 kilometer radius around you.
+We write the year 2019.
+Okay, playing music of the Beatles.
+Got it, I will remind you about that tomorrow.
+There are about 7 million results for pigeon breeding.
+The average adult human body is 50-65% water, averaging around 57-60%.
+The distance between Earth and Mars is about 376 million kilometers.
+The next furniture store is about 9 kilometers away from you.
+No, Flying squirrel's can not really fly, but they can glide instead.
+Okay, setting the alarm for 7 am.
+Displaying results for sneezing baby panda.
+The next gas station is 2.6 kilometers away.
+It is 5:35 pm.
+Starting video-call with mum.
+
+
+
+
+HKEY_CURRENT_USER\Software\Microsoft\Speech_OneCore\Isolated\Jv5VmgyHm8yFXwmnilXNQtQZyzeQ60i58NJfotkHUME
